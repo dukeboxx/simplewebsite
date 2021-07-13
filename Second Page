@@ -1,0 +1,11 @@
+1) Use the command 'pwd' to check the working directory. If not in the home directory, then use the command 'cd ..'
+
+2) Now use the command 'mkdir' followed by a space then 'unixtest'. It should look like this: mkrdir unixtest
+
+3) Now use the 'cd' command fdllowed by 'unixtest' to move into it. It should look like this: cd unixtest
+
+4) Now use the 'mkdir' command followed by 'test'. It should look like this: mkdir test
+
+5) Now use 'cd ..' to go back to the home directory. Now 'cd unixtest'. Then 'cd test'
+
+All done!
